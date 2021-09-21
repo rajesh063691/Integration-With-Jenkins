@@ -7,5 +7,4 @@ Adding my first commit to test the jenkins build trigger
 4th commit
 5th commit
 6th commit
-7th commit
 
